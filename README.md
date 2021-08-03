@@ -8,7 +8,7 @@
 
 ## **Estructura del formulario**
 
-<p align="center"><img src="_img/qfield_db.png"></p>
+<p align="center"><img src="_img/qfield_db.png" width="70%"></p>
 
 -----
 ## **Características**
